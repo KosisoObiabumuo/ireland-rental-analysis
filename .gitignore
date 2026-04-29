@@ -1,3 +1,30 @@
+# --- Project-specific ---
+
+# Raw downloaded data (often large; users should re-download from source)
+data/raw/*
+!data/raw/.gitkeep
+
+# Tableau temp/backup files
+*.twbr
+*.twbx.bak
+
+# OneDrive / Windows junk
+desktop.ini
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# uv / venv
+.venv/
+.uv/
+
+# Local environment files (database passwords etc.)
+.env
+.env.local
+
+# --- Python (GitHub default below) ---
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
