@@ -1,0 +1,13 @@
+[project]
+name = "ireland-rental-analysis"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.9",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.2",
+    "psycopg2-binary>=2.9.12",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.49",
+]
