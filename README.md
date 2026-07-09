@@ -2,7 +2,7 @@
 
 How rents in Ireland have moved over the last decade, broken down by county, dwelling type, and bedroom count, with a look at where rent is hardest to afford relative to local wages.
 
-**Tableau Public dashboard:** _coming once published (Step 7.5)_
+**Tableau Public dashboard:** [Ireland Rental Analysis](https://public.tableau.com/app/profile/kosisochukwu.obiabumuo/viz/IrelandRentalAnalysis/Dashboard)
 
 ## The question
 
