@@ -73,4 +73,4 @@ A few honest caveats up front.
 
 I am Kosiso, a third year student in Ireland. This is a portfolio project I built after finishing the Google Data Analytics certificate on Coursera. Open to data analytics internships for summer 2026.
 
-LinkedIn: _add link_
+LinkedIn: [kosisodan](https://www.linkedin.com/in/kosisodan)
